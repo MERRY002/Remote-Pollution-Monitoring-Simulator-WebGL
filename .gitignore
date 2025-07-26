@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore hidden Unity meta or cache folders (if any remain)
+*/.*/        
+# Any hidden folders inside subdirectories
